@@ -8,7 +8,7 @@ So, the first step is to open facebook and click on sign up for a new account
 
 Then when you are asked to enter your phone number, just visit www.smsreceive.cc and choose from any of the available US or Canada phone numbers. Enter the phone number into your facebook registration, then you will receive a verification SMS which will appear on the website under the phone number page.
 
-![image](https://github.com/user-attachments/assets/deb0f0a3-c269-43bd-a99c-6ec46bdd04ac)
+![image](https://github.com/user-attachments/assets/5980e444-eadd-4d6b-b8e4-69f6c20c191f)
 
 
 Copy the code from the website and enter it into your facebook registration, and that's it. Your facebook account is verified with an America or Canada phone number.
